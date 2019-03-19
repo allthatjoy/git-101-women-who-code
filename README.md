@@ -25,4 +25,4 @@ Solve the following challenges with your workshop buddy (pair programming).
 | ------ | ------ |
 | 1 | Go to back to the repository page on Github: bit.ly/git101workshop
 | 2 | Open a Pull Request for me to review.
-| 3 | If your Pull Request got accepted, your changes are added to the codebase and available [here](bit.ly/gitchampion)
+| 3 | If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
