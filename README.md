@@ -3,7 +3,7 @@
 ### Challenges 💪
 Solve the following challenges with your workshop buddy (pair programming).
 
-[Commands Cheatsheet](bit.ly/git101cheatsheet)
+[Commands Cheatsheet]
 
 | Challenge 1| Description |
 | ------ | ------ |
