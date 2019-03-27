@@ -20,4 +20,18 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 ### Challenge 3
 1. On GitHub, open a Pull Request on GitHub for me to review.
-3. If your Pull Request got accepted, your changes are added to the [Hall of Fame](https://allthatjoy.github.io/git-101-women-who-code/)
+2. If your Pull Request got accepted, your changes are added to the [Hall of Fame](https://allthatjoy.github.io/git-101-women-who-code/)
+
+
+### Bonus Challenge - Get familiar with the terminal and Git (Use your Cheatsheet)
+1. Open your terminal .
+2. Create a new folder on your Desktop using your command line.
+3. Find the command to change to that folder (directory).
+4. Inside your new directory, create a new file called text.txt
+5. Initialize git for that directory.
+6. On your Desktop, open that file with a text editor. 
+7. Write "Github 101" in that file, close it and save the file.
+8. Which Git command do you use to review what changed in the HTML? 
+9. Make a new commit with a message to describe the changes you made. 
+10. Create a new branch and jump onto that branch. How do you know how many branches there are in the project? How do you know which branch you are on?
+11. Now, `git checkout` to your master branch and then merge your branch to the master branch.
