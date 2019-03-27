@@ -22,7 +22,8 @@ Solve the following challenges with your workshop buddy (pair programming).
 1. On GitHub, open a Pull Request on GitHub for me to review.
 2. If your Pull Request got accepted, your changes are added to the [Hall of Fame](https://allthatjoy.github.io/git-101-women-who-code/)
 
-
+<br/>
+<br/>
 ### Bonus Challenge - Get familiar with the terminal and Git (Use your Cheatsheet)
 1. Open your terminal .
 2. Create a new folder on your Desktop using your command line.
