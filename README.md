@@ -2,7 +2,7 @@
 
 Solve the following challenges with your workshop buddy (pair programming).
 
-[Commands Cheatsheet](https://www.slideshare.net/JoySeng/git-101-workshop-commands-cheatsheet)
+**Cheatsheet** for [Mac & Linux Users](https://www.slideshare.net/secret/Ba69kgSROEBNNL).<br/> **Cheatsheet** for [Windows Users](https://www.slideshare.net/secret/BjwZiFSFdAhMVP)
 
 ### Challenge 1
 1. Using the terminal make sure your working directory is set to desktop.
