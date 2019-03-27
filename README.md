@@ -1,4 +1,4 @@
-# Welcome to Git 101 Workshop Challenges 💪!
+# 💪 Welcome to Git 101 Workshop Challenges! 💪
 
 Solve the following challenges with your workshop buddy (pair programming).
 
