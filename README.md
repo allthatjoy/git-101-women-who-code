@@ -20,4 +20,4 @@ Solve the following challenges with your workshop buddy (pair programming).
 
 ### Challenge 3
 1. On GitHub, open a Pull Request on GitHub for me to review.
-3. If your Pull Request got accepted, your changes are added to the codebase and available [here](https://allthatjoy.github.io/git-101-women-who-code/)
+3. If your Pull Request got accepted, your changes are added to the [Hall of Fame](https://allthatjoy.github.io/git-101-women-who-code/)
